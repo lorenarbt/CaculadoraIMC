@@ -5,7 +5,7 @@ html {
 body {
 	background: no-repeat linear-gradient(45deg, #806af9, #b57edc);
 	color: #000000;
-	font-family: arial;
+	font-family: montserrat;
 }
 
 #content * {
@@ -50,6 +50,8 @@ button{
 	height: 30px;
 	margin-top: 30px;
 	cursor: pointer;
+	font-family: montserrat;
+	font-weight: 500;
 }
 
 button:hover{
