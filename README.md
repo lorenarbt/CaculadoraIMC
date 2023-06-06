@@ -9,7 +9,7 @@ Projeto desenvolvido como requisito parcial para obtenção de nota na disciplin
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## ✒️ Autora
-* **Lorena Roberta** - *Todas as Etapas do Projeto* - [lorenarbt] (https://github.com/lorenarbt)
+* **Lorena Roberta** - *Todas as Etapas do Projeto* - [lorenarbt](https://github.com/lorenarbt)
 
 ## 📄 Licença
 
