@@ -1,6 +1,6 @@
-# CaculadoraIMC
+# 📟 CaculadoraIMC
 
-Projeto desenvolvido como requisito parcial para obtenção de nota na disciplina "Laboratório de Programação Web", ministrada pelo professor Cláudio Júniorn no semestre 2023.1.
+Projeto desenvolvido como requisito parcial para obtenção de nota na disciplina "Laboratório de Programação Web", ministrada pelo professor Cláudio Júnior no semestre 2023.1.
 
 ## 🛠️ Construído com
 
@@ -8,7 +8,7 @@ Projeto desenvolvido como requisito parcial para obtenção de nota na disciplin
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-## ✒️ Autora
+## 👩‍💻 Autora
 * **Lorena Roberta** - *Todas as Etapas do Projeto* - [lorenarbt](https://github.com/lorenarbt)
 
 ## 📄 Licença
